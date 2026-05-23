@@ -24,6 +24,8 @@ This website displays my personal details, technical skills, and projects in a s
 
 The following screenshots show different sections of my portfolio website.
 
+Check it out: https://harika-portfolio-website.netlify.app
+
 ![Demo](portfolio.png)
 
 ## 👩‍💻 Author
