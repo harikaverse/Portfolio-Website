@@ -24,7 +24,7 @@ This website displays my personal details, technical skills, and projects in a s
 
 The following screenshots show different sections of my portfolio website.
 
-
+![Demo](portfolio.png)
 
 ## 👩‍💻 Author
 
