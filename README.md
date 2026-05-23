@@ -30,4 +30,4 @@ Check it out: https://harika-portfolio-website.netlify.app
 
 ## 👩‍💻 Author
 
-Harika 💖
+Harika 
